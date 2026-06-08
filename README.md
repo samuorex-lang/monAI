@@ -1,2 +1,2 @@
 # monAI
-web publica para puvlicitar moonai
+web publica para publicitar moonai
